@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/matmul_example_static.dir/matmul.cpp.o -o matmul_example_static   -L/home/lj9979/anaconda3/envs/pytorch/lib  -Wl,-rpath,/usr/local/cuda-12.2/targets/x86_64-linux/lib:/home/lj9979/anaconda3/envs/pytorch/lib -lcudart -lcusparse "~/anaconda3/envs/pytorch/lib/libcusparseLt_static.a" /usr/local/cuda-12.2/targets/x86_64-linux/lib/libnvrtc.so -ldl 
